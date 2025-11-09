@@ -4,7 +4,7 @@ on: push
 
 env:
   REGISTRY: hub.oepkgs.net
-  IMAGE_NAME: oerv-ci/osmarker-rootfs
+  IMAGE_NAME: oerv-ci/osmarker-ci
 
 jobs:
 
